@@ -1,0 +1,6 @@
+print( "Nhỏ hơn 3<7:", 3<7)
+print( "Lớn hơn 3>7:", 3>7)
+print( "Nhỏ hơn hoặc bằng 3<=7:", 3<=7)
+print( "Lớn hơn hoặc bằng 3>=7: ", 3>=7)
+print( "Bang 3==7:", 3==7)
+print( "Khong bang 3!=7:", 3!=7)
