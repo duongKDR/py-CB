@@ -13,11 +13,11 @@ def vidu():
 vidu()
 print(vidu.__doc__)
 
-# def giathua (n):
-#   giathua = 1
-#   for i in range( 1,n+1,1):
-#     giathua *= i
-#   return giathua
+def giathua (n):
+  giathua = 1
+  for i in range( 1,n+1,1):
+    giathua *= i
+  return giathua
   
 # x= int(input("x = " ))
   
